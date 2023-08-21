@@ -5,3 +5,7 @@ Cardzinho bem pra tirar onda, sem separar componentes e usando só um style de C
 ## Feito com
 
 Javascript, HTML, CSS e React
+
+## Como rodar
+
+npm start
