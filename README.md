@@ -8,4 +8,6 @@ Javascript, HTML, CSS e React
 
 ## Como rodar
 
+``` sh
 npm start
+```
